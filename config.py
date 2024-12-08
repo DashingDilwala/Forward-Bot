@@ -16,7 +16,7 @@ class Config:
     LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002229340415'))
     FORCE_SUB_CHANNEL = environ.get("FORCE_SUB_CHANNEL", "-1001948462404") 
     FORCE_SUB_ON = environ.get("FORCE_SUB_ON", "True")
-    PORT = environ.get('PORT', '8080')
+    PORT = environ.get('PORT', '8680')
     
 #Dont Remove My Credit @Silicon_Bot_Update 
 #This Repo Is By @Silicon_Official 
